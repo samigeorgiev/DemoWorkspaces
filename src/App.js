@@ -5,7 +5,7 @@ import { A1Input } from './A1Input'
 function App() {
   return (
     <div className="App">
-      <A1Input />
+      <A1Input defaultValue="2121" />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
